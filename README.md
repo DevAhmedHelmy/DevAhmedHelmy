@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devahmedhelmy" alt="devahmedhelmy" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/helmyahmed520" target="blank"><img src="https://img.shields.io/twitter/follow/helmyahmed520?logo=twitter&style=for-the-badge" alt="helmyahmed520" /></a> </p>
 
 - 🌱 I’m currently learning **Vue, Angular**
 
@@ -15,6 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/helmyahmed520" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="helmyahmed520" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ahmed-helmy-73682911a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-helmy-73682911a" height="30" width="40" /></a>
 </p>
 
